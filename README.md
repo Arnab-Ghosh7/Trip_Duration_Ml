@@ -61,7 +61,7 @@ The solution is implemented as a comprehensive machine learning pipeline, ensuri
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Arnab-Ghosh7/Trip_Duration_Ml
     cd Trip_Duration_Ml
     ```
 
