@@ -13,7 +13,9 @@ A Machine Learning project design to predict the total duration of taxi trips in
 
 ## Project Overview
 
-## Project Overview
+This project focuses on the **New York City Taxi Trip Duration** challenge. The primary objective is to build a machine learning model that can accurately predict the total duration of a taxi trip in New York City. By analyzing features such as pickup and dropoff coordinates, pickup dates and times, and passenger counts, this model aims to provide valuable insights for fleet management and user travel time estimation.
+
+The solution is implemented as a comprehensive machine learning pipeline, ensuring reproducibility and scalability. It leverages **DVC (Data Version Control)** for robust data and pipeline management, **FastAPI** for high-performance real-time model serving, and is containerized using **Docker** for easy deployment on **Kubernetes** clusters via **Seldon Core**. This end-to-end approach demonstrates best practices in MLOps, from raw data processing to production deployment.
 
 
 
